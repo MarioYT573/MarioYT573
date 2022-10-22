@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarioYT573
 - 👀 I’m interested in ...Programación
-- 🌱 I’m currently learning ...<php, MySQL 
-- 💞️ I’m looking to collaborate on ...En PayPal para mi server
+- 🌱 I’m currently learning ...<php Y  MySQL 
+- 💞️ I’m looking to collaborate on ... Paypal
 - 📫 How to reach me ...DC INCOGNITO#7358
 
 <!---
